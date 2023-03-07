@@ -137,7 +137,7 @@ public static partial class GFunc
         Vector2 sPos = secondObj.transform.localPosition;
 
         int compareResult = 0;
-        if (fPos.y.IsEqual(sPos.y))
+        if (fPos.y.IsEquals(sPos.y))
         {
             // x 포지션이 같으면 같은 타일이므로 0을 리턴
             if (fPos.x.Equals(sPos.x)) { compareResult = 0; }

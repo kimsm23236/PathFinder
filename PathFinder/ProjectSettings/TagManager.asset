@@ -44,3 +44,9 @@ TagManager:
   - name: TerrainsLayer
     uniqueID: 4012354085
     locked: 0
+  - name: ObstaclesLayer
+    uniqueID: 371226991
+    locked: 0
+  - name: FrontUis
+    uniqueID: 2351513791
+    locked: 0
